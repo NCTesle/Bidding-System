@@ -131,7 +131,7 @@ include('header.php');
     </div>
     <br>
     <div class="container">
-      <div class="small text-center text-muted">Copyright © 2024 - <?php echo $_SESSION['system']['name'] ?> | Pikachu</div>
+      <div class="small text-center text-muted"><?php echo $_SESSION['system']['name'] ?> | SUS</div>
     </div>
   </footer>
 
